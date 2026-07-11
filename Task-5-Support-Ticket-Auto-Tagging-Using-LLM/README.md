@@ -12,7 +12,7 @@ Automatically tag free-text customer support tickets into relevant categories us
 - Filtered to **11,784 English-language tickets** across the **top 20 most frequent tags** for this task
 
 ## Notebook
-[View on Kaggle](https://www.kaggle.com/code/YOUR_USERNAME/task5-auto-tagging-support-tickets-llm)
+[View on Kaggle](https://www.kaggle.com/code/ramfat/auto-tagging-support-tickets-llm)
 Also available in this repo: [`task5-auto-tagging-support-tickets-llm.ipynb`](./task5-auto-tagging-support-tickets-llm.ipynb)
 
 ## Approach
